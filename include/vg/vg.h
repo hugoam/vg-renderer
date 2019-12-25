@@ -13,7 +13,7 @@
 #endif
 
 #ifndef VG_CONFIG_ENABLE_SIMD
-#	define VG_CONFIG_ENABLE_SIMD 1
+#	define VG_CONFIG_ENABLE_SIMD 0
 #endif
 
 #ifndef VG_CONFIG_FORCE_AA_OFF
